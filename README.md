@@ -1,1 +1,1 @@
-# guakamole-scenarios
+# Guakamole Scenarios
